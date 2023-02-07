@@ -55,5 +55,6 @@ ___
 
 ## What I learned
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arkk200&repo=next.js)](https://github.com/arkk200/Next.js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arkk200&repo=spring)](https://github.com/arkk200/Spring)
 
 </div>
