@@ -47,10 +47,6 @@ ___
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arkk200&repo=chess)](https://github.com/arkk200/Chess)
 
-## F/E CloneCodings
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arkk200&repo=naver)](https://github.com/arkk200/Naver)
-
 ## Collaborations
 
 ## What I learned
