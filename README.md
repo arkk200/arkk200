@@ -46,6 +46,8 @@ ___
 ## My Personal Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arkk200&repo=chess)](https://github.com/arkk200/Chess)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arkk200&repo=4mok)](https://github.com/arkk200/4mok)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arkk200&repo=4mok_back-end)](https://github.com/arkk200/4mok_back-end)
 
 ## Collaborations
 
