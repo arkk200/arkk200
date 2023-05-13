@@ -1,11 +1,5 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:aaaaff,100:87CEEB&height=300&section=header&text=안녕하세요!👋&fontSize=90&animation=fadeIn&fontAlignY=38&desc=프론트엔드(백엔드도%20조금)를%20꿈꾸는%20이명재%20학생입니다.😁&descAlignY=51&descAlign=62)
-</div>
 <h3 align="center">
-I love F/E languages, libraries and frameworks.<br>
-My favorite JS library is THREE.js.<br>
-I'm currently studying the library, and making projects with THREE.js.
+I love studying F/E languages, libraries and frameworks and I'm currently studying the library for my dream
 </h3>
 
 ___
