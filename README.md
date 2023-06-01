@@ -1,5 +1,5 @@
 <h3 align="center">
-I love studying F/E languages, libraries and frameworks and I'm currently studying the library for my dream
+I'm currently studying the js libraries for my dream
 </h3>
 
 ___
