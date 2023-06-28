@@ -1,18 +1,11 @@
-<h3 align="center">
-I'm currently studying the js libraries for my dream
-</h3>
-
-___
-
 <div align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=arkk200&show_icons=true" />
 <div align="center">
 Things that I can do.
 <div>
 
-![Badge](https://img.shields.io/badge/Three.js-191919.svg?style=flat&logo=Three.js)
 ![Badge](https://img.shields.io/badge/React-191919.svg?style=flat&logo=React)
-![Badge](https://img.shields.io/badge/ReactNative-191919.svg?style=flat&logo=React)<br>
+![Badge](https://img.shields.io/badge/Next.js-191919.svg?style=flat&logo=Nextdotjs)<br>
 ![Badge](https://img.shields.io/badge/styled‐components-white.svg?style=flat&logo=styled-components)
 ![Badge](https://img.shields.io/badge/Svelte-white.svg?style=flat&logo=Svelte)
 ![Badge](https://img.shields.io/badge/JavaScript-white.svg?style=flat&logo=JavaScript)
@@ -22,6 +15,7 @@ Things that I can do.
 Things that I know.
 </div>
 
+![Badge](https://img.shields.io/badge/Three.js-191919.svg?style=flat&logo=Three.js)
 ![Badge](https://img.shields.io/badge/Python-white.svg?style=flat&logo=Python)
 ![Badge](https://img.shields.io/badge/C-191919.svg?style=flat&logo=C)
 ![Badge](https://img.shields.io/badge/PHP-white.svg?style=flat&logo=PHP)<br>
