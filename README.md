@@ -18,7 +18,7 @@ Things that I know.
 ![Badge](https://img.shields.io/badge/Three.js-191919.svg?style=flat&logo=Three.js)
 ![Badge](https://img.shields.io/badge/Python-white.svg?style=flat&logo=Python)
 ![Badge](https://img.shields.io/badge/C-191919.svg?style=flat&logo=C)
-![Badge](https://img.shields.io/badge/PHP-white.svg?style=flat&logo=PHP)<br>
+![Badge](https://img.shields.io/badge/C++-191919.svg?style=flat&logo=Cplusplus)<br>
 ![Badge](https://img.shields.io/badge/Oracle-F80000.svg?style=flat&logo=Oracle)
 ![Badge](https://img.shields.io/badge/Redux-764ABC.svg?style=flat&logo=Redux)
 ![Badge](https://img.shields.io/badge/Lit-324FFF.svg?style=flat&logo=Lit)
