@@ -34,8 +34,8 @@ ___
 ## 개인 사이드 프로젝트
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arkk200&repo=4mok)](https://github.com/arkk200/4mok)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arkk200&repo=4mok_back-end)](https://github.com/arkk200/4mok_back-end)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arkk200&repo=4mok)](https://github.com/arkk200/PIXEL)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arkk200&repo=4mok_back-end)](https://github.com/arkk200/PIXEL_BACKEND)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arkk200&repo=PIXEL)](https://github.com/arkk200/PIXEL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arkk200&repo=PIXEL_BACKEND)](https://github.com/arkk200/PIXEL_BACKEND)
 
 ## 그 외에 배운 것들
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arkk200&repo=spring)](https://github.com/arkk200/Spring)
