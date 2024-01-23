@@ -31,15 +31,13 @@ ___
 
 <div align="center">
 
-## My Personal Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arkk200&repo=chess)](https://github.com/arkk200/Chess)
+## 개인 사이드 프로젝트
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arkk200&repo=4mok)](https://github.com/arkk200/4mok)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arkk200&repo=4mok_back-end)](https://github.com/arkk200/4mok_back-end)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arkk200&repo=4mok)](https://github.com/arkk200/PIXEL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arkk200&repo=4mok_back-end)](https://github.com/arkk200/PIXEL_BACKEND)
 
-## Collaborations
-
-## What I learned
+## 그 외에 배운 것들
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arkk200&repo=spring)](https://github.com/arkk200/Spring)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arkk200&repo=dart)](https://github.com/arkk200/Dart)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arkk200&repo=flutter)](https://github.com/arkk200/Flutter)
